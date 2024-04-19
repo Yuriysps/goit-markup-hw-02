@@ -151,10 +151,14 @@ line-height: 1.2;
 
 }
 
+.team-sect {
+    background-color: #F4F4FD;
+}
+
 .header-team {
     background-color: #F4F4FD;
     text-transform: capitalize;
-    line-height: 1.2;
+    line-height: 1.11;
 }
 
 .team-members{
@@ -164,6 +168,7 @@ background-color: #FFFFFF;
 
 .header-ford {
     text-transform: capitalize;
+    line-height: 1.2;
 }
 
 .prof-mark-guerro {
@@ -174,6 +179,15 @@ font-size: 16px;
 .header-portfolio {
     text-transform: capitalize;
 }
+
+.header-sub-port {
+line-height: 1.2;
+}
+
+.text-port {
+
+}
+
 
 .footer-block {
     background-color: #2e2f42;
