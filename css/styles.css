@@ -121,6 +121,7 @@ letter-spacing: 0.02em;
     line-height: 1.07;
     color: #ffffff;
     text-align: center;
+    line-height: 1.2;
 }
 
 .button-hero {
@@ -133,10 +134,11 @@ color: #ffffff
 .button-hero:hover,
 .button-hero:focus {
 background-color: #404BBF;
+font-weight: 500
 }
 
 .header-strategy {
-
+line-height: 1.2;
 }
 
 .text-strategy {
@@ -146,7 +148,17 @@ background-color: #404BBF;
 
 }
 
-.mark-guerro {
+.header-team {
+    background-color: #F4F4FD;
+    text-transform: capitalize;
+}
+
+.team-members{
+background-color: #FFFFFF;
+}
+
+
+.header-ford {
     text-transform: capitalize;
 }
 
@@ -155,10 +167,15 @@ background-color: #FFFFFF;
 font-size: 16px;
 }
 
+.header-portfolio {
+    text-transform: capitalize;
+}
+
 .footer-block {
     background-color: #2e2f42;
 }
-.logo-right-bottom-part {
+.logo-right-bottom-part 
+{
     color: #f4f4fd;
 }
 
