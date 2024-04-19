@@ -133,8 +133,8 @@ color: #ffffff
 
 .button-hero:hover,
 .button-hero:focus {
-background-color: #404BBF;
-font-weight: 500
+background-color:#404BBF;
+font-weight: 500;
 }
 
 .header-strategy {
