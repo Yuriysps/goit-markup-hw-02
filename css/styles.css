@@ -121,14 +121,13 @@ letter-spacing: 0.02em;
     line-height: 1.07;
     color: #ffffff;
     text-align: center;
-    line-height: 1.2;
 }
 
 .button-hero {
 line-height: 1.5;
 background-color: #4D5AE5;
 letter-spacing: 0.04em;
-color: #ffffff
+color: #ffffff;
 }
 
 .button-hero:hover,
@@ -137,13 +136,17 @@ background-color:#404BBF;
 font-weight: 500;
 }
 
+.advent-sec {
+background-color: #F4F4FD;
+}
+
 .header-strategy {
 line-height: 1.2;
 }
 
 .text-strategy {
     background-color: #FFFFFF;
-    font-size: 16px
+    font-size: 16px;
 
 
 }
@@ -151,6 +154,7 @@ line-height: 1.2;
 .header-team {
     background-color: #F4F4FD;
     text-transform: capitalize;
+    line-height: 1.2;
 }
 
 .team-members{
